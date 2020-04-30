@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1585333470 source:c:\users\samuel dahan\desktop\matricx\main.cpp
+	<iostream>
+	"matricX.h"
+
+1585332073 source:c:\users\samuel dahan\desktop\matricx\src\matricx.cpp
+	"matricX.h"
+	<iostream>
+
+1585333395 c:\users\samuel dahan\desktop\matricx\include\matricx.h
+
